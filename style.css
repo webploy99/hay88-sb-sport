@@ -24,7 +24,6 @@ body {
 } */
 
 
-
 /* button caidat */
 .box-item::after {
     animation: shiny-btn-anim 4s ease-in-out infinite;
